@@ -5,5 +5,5 @@ tags:
   -example-tag
 ---
 
-This is a blank Quartz installation.
+notas, lecturas, ideas, textos, reflexiones interconectadas.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
