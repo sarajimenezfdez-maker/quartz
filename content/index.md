@@ -6,4 +6,3 @@ tags:
 ---
 
 notas, lecturas, ideas, textos, reflexiones interconectadas.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
