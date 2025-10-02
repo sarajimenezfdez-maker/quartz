@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: por una redistribución política de lo sensible
 draft: flase
 tags:
   -example-tag
