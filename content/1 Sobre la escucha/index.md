@@ -1,6 +1,6 @@
 ---
-title: sobre mí
+title: Sobre la escucha
 draft: false
-order: 2
+order: 
 tags: 
 ---
