@@ -1,7 +1,7 @@
 ---
-title: desde las ruinas
+title: notas, lecturas, ideas, textos, reflexiones interconectadas...
 draft: false
 tags: 
 ---
 
-notas, lecturas, ideas, textos, reflexiones interconectadas.
+
