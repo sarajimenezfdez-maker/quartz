@@ -71,7 +71,7 @@ export default {
       home: "Regresa a la página principal",
     },
     folderContent: {
-      folder: "Carpeta",
+      folder: "",
       itemsUnderFolder: ({ count }) =>
         count === 1 ? "1 artículo en esta carpeta." : `${count} artículos en esta carpeta.`,
     },
