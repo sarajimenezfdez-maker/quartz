@@ -1,5 +1,6 @@
-import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { QuartzConfig } from "./quartz/cfg"
+
 
 /**
  * Quartz 4 Configuration
@@ -8,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "ruinas",
+    pageTitle: "ruina digital",
     pageTitleSuffix: "mi jardín",
     enableSPA: true,
     enablePopovers: true,
